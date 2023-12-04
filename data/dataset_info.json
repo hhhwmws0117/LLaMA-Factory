@@ -144,6 +144,13 @@
       "response": "summary"
     }
   },
+    "chatharuhi": {
+    "hf_hub_url": "silk-road/ChatHaruhi-English-62K-RolePlaying",
+    "columns": {
+      "prompt": "context",
+      "response": "target"
+    }
+  },
   "sharegpt_hyper": {
     "hf_hub_url": "totally-not-an-llm/sharegpt-hyperfiltered-3k",
     "formatting": "sharegpt"
